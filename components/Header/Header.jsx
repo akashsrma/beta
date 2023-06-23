@@ -37,6 +37,7 @@ const Header = () => {
             className="cursor-pointer rounded-lg mt-3"
           />
         )}
+        {/* <p className="mt-12">{session.user.email}</p> */}
       </div>
     </div>
   );
