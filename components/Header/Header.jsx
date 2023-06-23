@@ -16,7 +16,7 @@ const Header = () => {
         />
       </div>
       <div className="flex flex-row gap-[3rem]">
-        <div className="mt-6 font-medium bg-gray-600 text-white px-6 py-4   rounded-md hover:shadow-sm hover:shadow-gray-400 cursor-pointer hover:text-gray-800 hover:bg-gray-100 ">
+        <div className="mt-6 font-extrabold bg-gray-600 text-white px-6 py-4   rounded-md hover:shadow-sm hover:shadow-gray-400 cursor-pointer hover:text-gray-800 hover:bg-gray-100 ">
           <button>Create Profile</button>
         </div>
         <Sign />
